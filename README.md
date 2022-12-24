@@ -1,2 +1,1 @@
-# CSS-Background-Gradient-Generator
-CSS Background Gradient Generator
+# Background Gradient Generator App Developed with HTML5, CSS3 and JavaScript
